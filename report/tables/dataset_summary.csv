@@ -1,0 +1,8 @@
+metric,value
+total_plays,166153
+unique_users,11
+period_start,2021-01-01
+period_end,2021-01-31
+total_sessions,1465
+avg_plays_per_user,15104.818182
+avg_active_days_per_user,26.545455

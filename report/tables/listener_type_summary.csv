@@ -1,0 +1,4 @@
+listener_type,users_count,avg_total_plays,avg_active_days,avg_active_days_share,avg_daily_plays,avg_evening_share,avg_night_share,avg_weekend_share
+Регулярный,5,13822.8,29.8,0.96129,448.652903,0.354234,0.103669,0.569931
+Интенсивный,3,31140.666667,30.666667,0.989247,1014.22043,0.391988,0.123001,0.673689
+Эпизодический,3,1205.666667,17.0,0.548387,70.921569,0.28817,0.114639,0.551097
