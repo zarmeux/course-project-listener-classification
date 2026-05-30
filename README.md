@@ -31,7 +31,7 @@ data/raw/Last.fm_data.csv
 
 Ссылка на источник:
 
-> Last.fm dataset: https://www.kaggle.com/datasets/harshal19t/lastfm-dataset
+> Last.FM_dataset: https://www.kaggle.com/datasets/harshal19t/lastfm-dataset
 
 Исходные поля датасета:
 
